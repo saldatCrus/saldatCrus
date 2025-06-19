@@ -13,5 +13,4 @@ I'm a С# Fullstack Developer passionate about WPF, Blazor, Asp App. I love work
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saldatCrus&layout=compact&theme=radical)](https://github.com/saldatCrus)
 
 ## 🔥 Streak Stats
-
-(https://streak-stats.demolab.com/?user=saldatCrus&theme=radical)(https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saldatCrus)](https://git.io/streak-stats)
