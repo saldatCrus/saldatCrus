@@ -8,6 +8,5 @@ I'm a С# Fullstack Developer passionate about WPF, Blazor, Asp App. I love work
 
 - 📫 How to reach me: (https://t.me/SaldatCrus_exe)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saldatCrus&show_icons=true&theme=radical)](https://github.com/saldatCrus)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saldatCrus&layout=compact&theme=radical)](https://github.com/saldatCrus)
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saldatCrus&show_icons=true&theme=radical)](https://github.com/saldatCrus) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saldatCrus&layout=compact&theme=radical)](https://github.com/saldatCrus) |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
