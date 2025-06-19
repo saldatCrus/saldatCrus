@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm saldatCrus 🦊
 
-<!--
-**saldatCrus/saldatCrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Full+Stack+Developer;Closed+Source+Contributor;Team+Lead;)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a С# Fullstack Developer passionate about WPF, Blazor, Asp App. I love working with DI and building MVVM aplication.
+
+- 📫 How to reach me: (https://t.me/SaldatCrus_exe)
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saldatCrus&show_icons=true&theme=radical)](https://github.com/saldatCrus)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saldatCrus&layout=compact&theme=radical)](https://github.com/saldatCrus)
+
+## 🔥 Streak Stats
+
+(https://streak-stats.demolab.com/?user=saldatCrus&theme=radical)(https://git.io/streak-stats)
