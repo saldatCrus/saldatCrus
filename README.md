@@ -9,5 +9,3 @@
 
 I'm a С# Fullstack Developer passionate about WPF, Blazor, Asp App. I love working with DI and building MVVM aplication.
 
-- 📫 How to reach me: (https://t.me/SaldatCrus_exe)
-
